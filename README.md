@@ -7,4 +7,6 @@ A simple menu in HTML and CSS.
 
 I developed this project when I participated in the Maratona Explorer 3.0 in Rocketseat.
 
+Scan the QR code below to view the page.
+
 ![image](https://user-images.githubusercontent.com/99675777/186727407-f31f982a-5598-4d23-ad4b-e20c447f502f.png)
